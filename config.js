@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6281326116780']
-global.pengguna = 'Arzz Elite'
+global.owner = ['6285739663128']
+global.pengguna = 'Cilzz Elite'
 global.premium = []
-global.author = 'Arzz Bot'
-global.pemilik = ['6281326116780'] 
-global.ownernomer = '6281326116780'
-global.ownername = 'Arzz Elite'
-global.botname = 'Arzz - Md'
+global.author = 'Cilzz Bot'
+global.pemilik = ['6285739663128'] 
+global.ownernomer = '6285739663128'
+global.ownername = 'Cilzz Elite'
+global.botname = 'Cilzz - Bot'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6281326116780'
-global.footer = 'Arzz - Md'
+global.meki = '6285739663128'
+global.footer = 'Cilzz - Bot'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Arzz' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Cilzz' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/SabilOfc__'
 global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya
-global.dana = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.gopay = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.wame = 'https://wa.me/6281326116780'
+global.dana = '0857-3966-3128'
+global.gopay = '0857-3966-3128'
+global.wame = 'https://wa.me/6285739663128'
 global.email = 'sabilofc33@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/zynxxstore'
 global.sc = 'https://bit.ly'
-global.packname = 'Arzz Bot// @Arzz Elite' 
+global.packname = 'Cilzz Bot// @Cilzz Elite' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
