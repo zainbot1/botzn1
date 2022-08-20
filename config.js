@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285739663128']
-global.pengguna = 'Cilzz Elite'
+global.owner = ['62']
+global.pengguna = 'AryaaBotz🔱'
 global.premium = []
-global.author = 'Cilzz Bot'
-global.pemilik = ['6285739663128'] 
-global.ownernomer = '6285739663128'
-global.ownername = 'Cilzz Elite'
-global.botname = 'Cilzz - Bot'
+global.author = AryaaBotz🔱'
+global.pemilik = ['6283821300679'] 
+global.ownernomer = '6283821300679'
+global.ownername = 'Aryaa Elite'
+global.botname = 'Aryaa - Botz'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285739663128'
-global.footer = 'Cilzz - Bot'
+global.meki = '6283821300679'
+global.footer = 'Aryaa - Botz'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Cilzz' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Aryaa' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.yt = 'https://youtu.be/SabilOfc' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/SabilOfc__'
 global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya
 global.dana = '0857-3966-3128'
 global.gopay = '0857-3966-3128'
-global.wame = 'https://wa.me/6285739663128'
+global.wame = 'https://wa.me/6283821300679'
 global.email = 'sabilofc33@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/zynxxstore'
 global.sc = 'https://bit.ly'
-global.packname = 'Cilzz Bot// @Cilzz Elite' 
+global.packname = 'Aryaa Botz// @Aryaa Elite' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
